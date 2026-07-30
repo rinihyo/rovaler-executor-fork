@@ -1,11 +1,8 @@
-# ROVALER EXEUCUTOR REAL REAL REAL
-UNDETECTED BY HYPERION 
-
-BYPASSES FILTERED WATER ENABLED
-
-BYPASSES BYPASS
-
-AND NOT A RAT
+<p align="center">
+    <img src="rovaler_white.png#gh-dark-mode-only" width="380">
+    <img src="rovaler_black.png#gh-light-mode-only" width="380">
+</p>
+(contributor 100% didnt stole idea from bloxstrap)
 
 # FAQ
 
